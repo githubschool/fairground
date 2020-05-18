@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Octostatus"
 ---
 
-Caption here
+I need water
 
 ![orderedlistocat](https://octodex.github.com/images/orderedlistocat.png)
 {: .center}
