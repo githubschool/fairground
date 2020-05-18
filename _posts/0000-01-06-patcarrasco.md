@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Octostatus"
+title: "Welcome to our slide deck!"
 ---
 
 I need water
